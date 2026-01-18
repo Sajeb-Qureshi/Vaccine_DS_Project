@@ -15,4 +15,4 @@
 *Usage:*
 1.⁠ ⁠Clone the repository:
 ```bash
-git clone https://github.com/yourusername/Vaccine_DS_Project.git
+https://github.com/Sajeb-Qureshi/Vaccine_DS_Project
